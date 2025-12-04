@@ -19,11 +19,13 @@ I am a **Clinical Transformation Specialist and Data Engineer** with 25 years of
 See the pinned repositories below for direct, verifiable examples of my work:
 
 * **[AIR: Compliance System](https://github.com/kirk-allen-ryan/AIR):** Enterprise-grade relational design and multi-user workflow automation.
-* **Clinical Research Analysis:** Projects showcasing data engineering and modeling that led to 4 publication credits.
+* **Clinical Research Analysis:**
+  *    Preemptive Methocarbamol to Prevent Muscle Spasm After Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis (https://pubmed.ncbi.nlm.nih.gov/39405259/)
 
 ### 📞 Connect
 
 [LinkedIn Profile](https://www.linkedin.com/in/kirkryancls76532ab5) | [Future Personal Website Link] | [Your Professional Email Address]
+ORCID_ID:  https://orcid.org/0009-0009-8649-9730
 
 ---
 
