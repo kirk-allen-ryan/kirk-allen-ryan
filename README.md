@@ -1,13 +1,35 @@
-- 👋 Hi, I’m @kirk-allen-ryan
-- I am a builder, first and foremost. I build solutions. I see angles, approaches, opportunities that others don't.
-- The How is an attribute, a property - the child of the union of What and Why. I focus on first principles.
-  Data is a base commodity - ones and zeros that you pay good money to gather and keep, that you spend too much time worrying over. It's essentially little more than rocks and sand - sprinkled around, its just a mess to clean up, but in sufficient quantities it becomes the land we live on - some of it fertile, some sterile but sturdy to build on, a lot of it wasteland. A lot of it still unexplored...
+# Kirk Ryan | Clinical Informatics Specialist & Data Analyst
 
-  The trick is to have your data tell a compelling story. Ever notice that commercial software carries a copywright instead of a patent? Creating good software is empowering users as a willing cast in a good story. Sure, they are creating and accessing data - its the ground they are standing on - but the structures they build and the stories they live and tell on that ground are the point. Ah, the point! 'What is the point?' you just thought...
+👋 Hi, I’m @kirk-allen-ryan
 
-  The point is that to write good software, you have to know how to write. And tell a good story. Manage a cast of characters - their motives, their backstory, their actions - and manage the setting, the themes, the plot, the twists, the conflicts, and the Big Finish. Code is just an alphabet and a handful of rules to follow - you know, the things we teach to our little kids. Solutions are stories - if you can write a good book, you can probably write a pretty slick application. If you can't, you can't.
+I am a **Clinical Transformation Specialist and Data Engineer** with 25 years of deep domain expertise in clinical laboratory science and EMR/LIS informatics. I specialize in bridging complex clinical needs with robust, data-driven software solutions for QA/QI, regulatory compliance, and published research.
 
-  Curiosity and imagination - two attributes that can't be taught, are where great applications come from...
+---
+
+### 🛠️ Core Competencies & Toolkit
+
+* **Clinical & Domain Expertise:** EMR/LIS Data Engineering, QA/QI Methodology, Clinical Workflow Design.
+* **Data Science:** Python (Pandas, Scikit-learn), Statistical Analysis, Reproducible Research.
+* **Systems & Automation:** Relational Database Design (Claris/FileMaker), VBA Automation, SQL Reporting.
+
+---
+
+### 🌟 Portfolio & Verified Experience
+
+See the pinned repositories below for direct, verifiable examples of my work:
+
+* **[AIR: Compliance System](https://github.com/kirk-allen-ryan/AIR):** Enterprise-grade relational design and multi-user workflow automation.
+* **Clinical Research Analysis:** Projects showcasing data engineering and modeling that led to 4 publication credits.
+
+### 📞 Connect
+
+[LinkedIn Profile](https://www.linkedin.com/in/kirkryancls76532ab5) | [Future Personal Website Link] | [Your Professional Email Address]
+
+---
+
+### My Building Philosophy
+
+To write good software, you have to know how to write, to tell a good story. To manage a cast of diverse characters - their motives, their backstory, their actions - and manage the setting, the themes, the plot, the twists, the conflicts, and get to the Big Finish. Solutions are stories. Great stories =>> great outcomes
 
   
 <!---
