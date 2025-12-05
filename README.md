@@ -21,7 +21,7 @@ See the pinned repositories below for direct, verifiable examples of my work:
 * **[AIR: Compliance System](https://github.com/kirk-allen-ryan/AIR):** Enterprise-grade relational design and multi-user workflow automation.
 * **Clinical Research Analysis:**
   *    Preemptive Methocarbamol to Prevent Muscle Spasm After Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis (https://pubmed.ncbi.nlm.nih.gov/39405259/)
-  *    https://github.com/kirk-allen-ryan/Pediatric-Pain-Analgesia-Analysis
+  *    Continuous epidural analgesia for scoliosis correction surgery: does it reduce opioid requirements, complications and length of stay? (https://github.com/kirk-allen-ryan/Pediatric-Pain-Analgesia-Analysis)
 ### 📞 Connect
 
 [LinkedIn Profile](https://www.linkedin.com/in/kirkryancls76532ab5) | [Future Personal Website Link] | [kirk.ryan@icloud.com]
