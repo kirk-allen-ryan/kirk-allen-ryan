@@ -4,6 +4,11 @@
 
 I am a **Clinical Transformation Specialist and Data Engineer** with 25 years of deep domain expertise in clinical laboratory science and EMR/LIS informatics. I specialize in bridging complex clinical needs with robust, data-driven software solutions for QA/QI, regulatory compliance, and published research.
 
+### 🧠 The Augmented Expert: Wisdom + AI
+In the current LLM revolution, technical skills have become commoditized. While anyone can generate code, very few possess the **domain wisdom** to know *what* to build and *why* it matters. 
+
+With over 25 years in clinical informatics, I leverage AI not just to write code faster, but to scale my ability to solve high-stakes clinical and business problems. My value lies in the **"Experience Alpha"**—the irreplaceable insights that ensure data-driven solutions are clinically safe, operationally sound, and strategically significant.
+
 ---
 
 ### 🛠️ Core Competencies & Toolkit
