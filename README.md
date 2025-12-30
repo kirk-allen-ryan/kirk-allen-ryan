@@ -24,6 +24,7 @@ With over 25 years in clinical informatics, I leverage AI not just to write code
 See the pinned repositories below for direct, verifiable examples of my work:
 
 * **[AIR: Compliance System](https://github.com/kirk-allen-ryan/AIR):** Enterprise-grade relational design and multi-user workflow automation.
+* [**Clinical Workflow Automation**](https://github.com/kirk-allen-ryan/Clinical_Audit_Automation_VBA)
 * **Clinical Research Analysis:**
   * [**Preemptive Methocarbamol to Prevent Muscle Spasm After Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis**](https://pubmed.ncbi.nlm.nih.gov/39405259/)
   * [**Continuous epidural analgesia for scoliosis correction surgery: does it reduce opioid requirements, complications and length of stay?**](https://github.com/kirk-allen-ryan/Pediatric-Pain-Analgesia-Analysis)
