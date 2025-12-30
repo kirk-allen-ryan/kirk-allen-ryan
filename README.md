@@ -25,8 +25,12 @@ See the pinned repositories below for direct, verifiable examples of my work:
 
 * **[AIR: Compliance System](https://github.com/kirk-allen-ryan/AIR):** Enterprise-grade relational design and multi-user workflow automation.
 * **Clinical Research Analysis:**
-  *    Preemptive Methocarbamol to Prevent Muscle Spasm After Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis (https://pubmed.ncbi.nlm.nih.gov/39405259/)
-  *    Continuous epidural analgesia for scoliosis correction surgery: does it reduce opioid requirements, complications and length of stay? (https://github.com/kirk-allen-ryan/Pediatric-Pain-Analgesia-Analysis)
+  * [**Preemptive Methocarbamol to Prevent Muscle Spasm After Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis**](https://pubmed.ncbi.nlm.nih.gov/39405259/)
+  * [**Continuous epidural analgesia for scoliosis correction surgery: does it reduce opioid requirements, complications and length of stay?**](https://github.com/kirk-allen-ryan/Pediatric-Pain-Analgesia-Analysis)
+    - Poster presentation at the 11th Annual Society for Pediatric Pain Management (SPPM) Meeting, April 11, 2024, Anaheim, CA.
+    - Poster presentation at the Society for Pediatric Anesthesia – American Academy of Pediatrics (SPA-AAP) Pediatric Anesthesiology Meeting, April 12 – 14, 2024, Anaheim, CA.
+    - Poster presentation at the International Anesthesia Research Society Meeting, May 17 – 19, 2024, Seattle, WA.
+  * Abstract: Correll Z, Sousa TC, Halpern LM, Ryan K. **Does the Continuous Suprainguinal Fascia Iliaca Block Provide Equivalent analgesia to Continuous Epidural Analgesia following Proximal Femoral Derotational Osteotomy for Symptomatic Intoeing?** (Accepted September 2024) International Pediatric Orthopaedic Symposium (IPOS) Annual Meeting December 3 – 7, 2024, Orlando, FL.
  * **[Quantitative Business/Financial Analysis](https://github.com/kirk-allen-ryan/Quant_SPX_Short_Vol_Analysis)**
       
 
