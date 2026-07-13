@@ -28,14 +28,17 @@ See the pinned repositories below for direct, verifiable examples of my work:
 * **Clinical Research Publications:**
   * [**Preemptive Methocarbamol to Prevent Muscle Spasm After Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis**](https://pubmed.ncbi.nlm.nih.gov/39405259/)
     - Journal of Anesthesia & Analgesia: February, 2025
+    - PMID: 39405259
   * [**Continuous epidural analgesia for scoliosis correction surgery: does it reduce opioid requirements, complications and length of stay?**](https://github.com/kirk-allen-ryan/Pediatric-Pain-Analgesia-Analysis)
     - Poster presentation at the 11th Annual Society for Pediatric Pain Management (SPPM) Meeting, April 11, 2024, Anaheim, CA.
     - Poster presentation at the Society for Pediatric Anesthesia – American Academy of Pediatrics (SPA-AAP) Pediatric Anesthesiology Meeting, April 12 – 14, 2024, Anaheim, CA.
     - Poster presentation at the International Anesthesia Research Society Meeting, May 17 – 19, 2024, Seattle, WA.
   * [**A Comparison of Continuous Epidural, Spinal Opioid,and Patient-Controlled Analgesia for Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis: A Multicenter, International Database Study**](https://pubmed.ncbi.nlm.nih.gov/41884952/)
     - Journal of Pediatric Othropedics (JPO): March, 2026
+    - PMID: 41884952
   * [**Continuous Suprainguinal Fascia Iliaca Block vs Epidural Analgesia for Pediatric Hip Surgery: A Retrospective Cohort Study**](https://pubmed.ncbi.nlm.nih.gov/42094209/)
     - Journal of Local & Regional Anesthesia: May, 2026
+    - PMID: 42094209
  * [**Last-Mile Development**](https://github.com/kirk-allen-ryan/Enterprise_Quality_Spackle): Extending existing tools to maximize ROI and minimize stakeholder pain
  * **[Quantitative Business/Financial Analysis](https://github.com/kirk-allen-ryan/Quant_SPX_Short_Vol_Analysis)** Sophisticated portfolio management strategies, with 25+ years experience in short-Vol section-1256 market instruments
       
