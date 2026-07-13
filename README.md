@@ -27,6 +27,7 @@ See the pinned repositories below for direct, verifiable examples of my work:
 * [**Clinical Workflow Automation**](https://github.com/kirk-allen-ryan/Clinical_Audit_Automation_VBA): There is always some more ROI-meat left on those workflow-bones
 * **Clinical Research Publications:**
   * [**Preemptive Methocarbamol to Prevent Muscle Spasm After Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis**](https://pubmed.ncbi.nlm.nih.gov/39405259/)
+    - Journal of Anesthesia & Analgesia: February, 2025
   * [**Continuous epidural analgesia for scoliosis correction surgery: does it reduce opioid requirements, complications and length of stay?**](https://github.com/kirk-allen-ryan/Pediatric-Pain-Analgesia-Analysis)
     - Poster presentation at the 11th Annual Society for Pediatric Pain Management (SPPM) Meeting, April 11, 2024, Anaheim, CA.
     - Poster presentation at the Society for Pediatric Anesthesia – American Academy of Pediatrics (SPA-AAP) Pediatric Anesthesiology Meeting, April 12 – 14, 2024, Anaheim, CA.
